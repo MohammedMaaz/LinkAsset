@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863826008206",
+    "firebase_url": "https://kaisa-diya.firebaseio.com",
+    "project_id": "kaisa-diya",
+    "storage_bucket": "kaisa-diya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863826008206:android:7c8952b320272b2e",
+        "android_client_info": {
+          "package_name": "com.denovers.rnfirebasebearbone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863826008206-d17l09q97hgj9v9cgjqru5ej4an1paqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.denovers.rnfirebasebearbone",
+            "certificate_hash": "20d36db940043ed7f0d97fc6ffad0c679cac9232"
+          }
+        },
+        {
+          "client_id": "863826008206-12uff9fu28bb4agdfro3t6m55ut7lgts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_mnLWbrg4etYS1HJRP3skCuXni48GGag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863826008206-12uff9fu28bb4agdfro3t6m55ut7lgts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
