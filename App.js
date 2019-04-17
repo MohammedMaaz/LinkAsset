@@ -8,7 +8,7 @@ export default class ButtonExample extends Component {
         <Header />
         <Content>
           <Button>
-            <Text>Hi!</Text>
+            <Text>Click Me!</Text>
           </Button>
         </Content>
       </Container>
